@@ -1,4 +1,4 @@
-# RedemarrerNVIDIA
+# Redemarrer NVIDIA
 Ceci est un programme disponible au téléchargement permettant de redémarrer les services Windows liées au pilote NVIDIA GeForce.
 
 Pour connaître l'architecture de son système : 
