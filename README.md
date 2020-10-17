@@ -33,3 +33,5 @@ La modification et la revente de ce logiciel est strictement interdite.
 Vous pouvez néanmoins le partager dans son état original (non modifié) depuis le lien suivant : https://github.com/AurelienAudero/RedemarrerNVIDIA/releases.
 
 (c) Aurélien Audero - 2020 - All rights reserved
+
+Contact : contact@auregamingyt.onmicrosoft.com
