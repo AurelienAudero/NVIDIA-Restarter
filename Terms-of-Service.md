@@ -14,6 +14,8 @@ Ces conditions d'utilisation sont susceptibles d'être modifiées à n'importe q
 
 These terms of use are subject to change at any time by the copyright holder and apply automatically if you have used the program before.
 
+---
+
 (c) Aurélien Audero - 2020 - All rights reserved
 
 Contact : contact@auregamingyt.onmicrosoft.com
