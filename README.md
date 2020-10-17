@@ -26,11 +26,11 @@ Click on the Start Menu (Windows button at the bottom left of the screen) :
 
 ## Conditions d'utilisations et Copyright
 
-En utilisant, ce logiciel, vous acceptez les conditions générales d'utilisation consultables à : http://bit.ly/RedemarrerNVIDIA-TermsOfService
+En utilisant, ce logiciel, vous acceptez les conditions générales d'utilisation consultables à : http://bit.ly/NVIDIARestarter-TermsOfService
 
 La modification et la revente de ce logiciel est strictement interdite.
 
-Vous pouvez néanmoins le partager dans son état original (non modifié) depuis le lien suivant : https://github.com/AurelienAudero/RedemarrerNVIDIA/releases.
+Vous pouvez néanmoins le partager dans son état original (non modifié) depuis le lien suivant : https://github.com/AurelienAudero/NVIDIA-Restarter/releases.
 
 ---
 
