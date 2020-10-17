@@ -19,6 +19,8 @@ Cliquer sur le Menu Démarrer (Bouton Windows en bas à gauche de l'écran),
 
 La modification et la revente de ce logiciel est strictement interdite.
 
+En utilisant, ce logiciel, vous acceptez les conditions générales d'utilisation consultables à : http://bit.ly/RedemarrerNVIDIA-TermsOfService
+
 Vous pouvez néanmoins le partager dans son état original (non modifié) depuis ce projet GitHub dans la section "Releases" ou depuis le lien suivant : https://github.com/AurelienAudero/RedemarrerNVIDIA/releases.
 
 (c) Aurélien Audero - 2020
