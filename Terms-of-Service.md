@@ -16,6 +16,12 @@ These terms of use are subject to change at any time by the copyright holder and
 
 ---
 
+NVIDIA, le logo NVIDIA et GeForce sont des marques commerciales et/ou des marques déposées de NVIDIA Corporation aux États-Unis et dans d'autres pays.
+
+(c) NVIDIA Corporation - 2020
+
+---
+
 (c) Aurélien Audero - 2020 - All rights reserved
 
 Contact : contact@auregamingyt.onmicrosoft.com
