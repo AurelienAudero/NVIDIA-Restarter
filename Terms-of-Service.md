@@ -1,6 +1,6 @@
 # Conditions Générales d'Utilisation / Terms of Service
 
-En utilisant le logiciel "NVIDIA Restarter" disponible à l'adresse : https://github.com/AurelienAudero/NVIDIA-Restarter/release, vous acceptez : 
+En utilisant le logiciel "NVIDIA Restarter" disponible à l'adresse : https://github.com/AurelienAudero/NVIDIA-Restarter/releases, vous acceptez : 
 
 By using the "RedemarrerNVIDIA" software available at: https://github.com/AurelienAudero/NVIDIA-Restarter/releases, you agree :
 
