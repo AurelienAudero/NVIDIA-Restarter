@@ -1,6 +1,6 @@
-# Redemarrer NVIDIA
+# NVIDIA Restarter
 
-Redémarrer NVIDIA est un programme disponible au téléchargement gratuitement permettant de redémarrer les services Windows liées au pilote NVIDIA GeForce.
+NVIDIA Restarter est un programme disponible au téléchargement gratuitement permettant de redémarrer les services Windows liées au pilote NVIDIA GeForce.
 
 Ce programme s'avérer utile quand votre pilote NVIDIA GeForce a planté et qu'il ne redémarre pas tout seul ou alors qu'il a tout simplement besoin de redémarrer.
 
