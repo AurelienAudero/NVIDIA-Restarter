@@ -31,8 +31,9 @@ Right click on Computer and select "Properties" :
 
 ### A Savoir :
 
-x86 -> 32 bits
-x64 -> 64 bits
+Processeur x86 -> Système 32 bits
+
+Processeur x64 -> Système 64 bits
 
 ## Conditions d'utilisations et Copyright
 
