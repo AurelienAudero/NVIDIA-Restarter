@@ -25,9 +25,9 @@ Click on the Start Menu (Windows button at the bottom left of the screen) then r
 
 ### A Savoir :
 
-Processeur x86 -> Système 32 bits
+Processeur x86 <-> Système 32 bits
 
-Processeur x64 -> Système 64 bits
+Processeur x64 <-> Système 64 bits
 
 ## Conditions d'utilisations et Copyright
 
