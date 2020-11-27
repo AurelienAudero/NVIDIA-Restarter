@@ -29,6 +29,11 @@ Right click on Computer and select "Properties" :
 ![Architecture Windows 7 - 2](https://user-images.githubusercontent.com/64486562/96336221-6b79cc00-107e-11eb-82d9-5dbb57cfe7ae.png)
 ![Architecture Windows 7 - 3](https://user-images.githubusercontent.com/64486562/96336531-c3b1cd80-1080-11eb-8ad8-bdfd8c4476d1.png)
 
+### A Savoir :
+
+x86 -> 32 bits
+x64 -> 64 bits
+
 ## Conditions d'utilisations et Copyright
 
 En utilisant, ce logiciel, vous acceptez les conditions générales d'utilisation consultables à : http://bit.ly/NVIDIARestarter-TermsOfService
