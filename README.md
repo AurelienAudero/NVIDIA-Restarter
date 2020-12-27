@@ -41,10 +41,10 @@ Vous pouvez néanmoins le partager dans son état original (non modifié) depuis
 
 NVIDIA, le logo NVIDIA et GeForce sont des marques commerciales et/ou des marques déposées de NVIDIA Corporation aux États-Unis et dans d'autres pays.
 
-(c) NVIDIA Corporation - 2020
+(c) NVIDIA Corporation - 2021
 
 ---
 
-(c) Aurélien Audero - 2020 - All rights reserved
+(c) Aurélien Audero - 2021 - All rights reserved
 
-Contact : contact@auregamingyt.onmicrosoft.com
+Contact : contact-pro@auregamingyt.onmicrosoft.com
