@@ -1,0 +1,28 @@
+# Conditions Générales d'Utilisation / Terms of Service
+
+En utilisant le logiciel "NVIDIA Restarter" disponible à l'adresse : https://github.com/AurelienAudero/NVIDIA-Restarter/releases, vous acceptez : 
+
+By using the "RedemarrerNVIDIA" software available at: https://github.com/AurelienAudero/NVIDIA-Restarter/releases, you agree :
+
+- (French) VOUS ÊTES LE SEUL ET UNIQUE RESPONSABLE DE TOUT DOMMAGE DIRECT, INDIRECT, ACCESSOIRE, SPÉCIAL, EXEMPLAIRE OU INDIRECT (Y COMPRIS, MAIS SANS S'Y LIMITER, L'ACHAT DE BIENS OU SERVICES DE SUBSTITUTION; PERTE D'UTILISATION, DE DONNÉES OU DE PROFITS; OU INTERRUPTION DES ACTIVITÉS) TOUTEFOIS CAUSÉE ET SUR TOUTE THÉORIE DE LA RESPONSABILITÉ, QUE CE SOIT DANS LE CONTRAT, LA RESPONSABILITÉ STRICTE OU A TORT (Y COMPRIS LA NÉGLIGENCE OU AUTREMENT) DÉCOULANT DE TOUTE MANIÈRE DE L'UTILISATION DE CE LOGICIEL, MÊME SI AVIS DE LA POSSIBILITÉ DE TELS DOMMAGES. LE TITULAIRE DU COPYRIGHT OU LES CONTRIBUTEURS NE SERONT PAS TENUS RESPONSABLES.
+
+- (English) YOU ARE SOLE AND SOLELY RESPONSIBLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THE COPYRIGHT HOLDER OR CONTRIBUTORS WILL NOT BE HELD RESPONSIBLE.
+
+- (French) DE NI MODIFIER, NI PUBLIER, NI PARTAGER LE CODE SOUS QUELCONQUE FORME (CODE SOURCE, PROGRAMME COMPILE, ECT...) SANS L'ACCORD ECRIT DU TITULAIRE DES DROIT D'AUTEUR. POUR PARTAGER ET TELECHARGER LE PROGRAMME VOUS DEVEZ UTILISER LE LIEN SUIVANT : https://github.com/AurelienAudero/NVIDIA-Restarter/releases.
+- (English) NOT TO MODIFY, PUBLISH, OR SHARE THE CODE IN ANY FORM (SOURCE CODE, COMPILED PROGRAM, ECT ...) WITHOUT THE WRITTEN AGREEMENT OF THE COPYRIGHT HOLDER. TO SHARE AND DOWNLOAD THE PROGRAM YOU MUST USE THE FOLLOWING LINK: https://github.com/AurelienAudero/NVIDIA-Restarter/releases.
+
+Ces conditions d'utilisation sont susceptibles d'être modifiées à n'importe quel moment par le titulaire des droit d'auteur et s'appliquent automatiquement si vous avez déjà utilisé le programme au paravant.
+
+These terms of use are subject to change at any time by the copyright holder and apply automatically if you have used the program before.
+
+---
+
+NVIDIA, le logo NVIDIA et GeForce sont des marques commerciales et/ou des marques déposées de NVIDIA Corporation aux États-Unis et dans d'autres pays.
+
+(c) NVIDIA Corporation - 2021
+
+---
+
+(c) Aurélien Audero - 2021 - All rights reserved
+
+Contact : contact-pro@auregamingyt.onmicrosoft.com
